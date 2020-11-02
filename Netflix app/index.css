@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    margin:0 ;
+    padding:0;
+    background-color: rgb(255, 8, 8);
+}
+
+.cards{
+    width: 65%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: 10px;
+    margin-right: auto;
+    float: left;
+}
+
+.buttonStyle{
+    border-radius: 4px;
+    box-shadow: grey;
+    
+}
+
+.card_img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: -10px;
+    margin-right: auto;
+    width: 400px;
+    padding: 18px;
+     
+}
+
+.card__info{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: -10px;
+    margin-right: auto;
+    padding: 18px;
+    font-weight:20px;
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;    
+}
+
+
+.heading{
+    text-align: center;
+    padding: 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    background-color: white;
+}
+
+.card_img:hover,.buttonStyle:hover{
+    background-color: white;
+}
+
+.aboutSeries{
+    float: right;
+    width: 35%;
+}
