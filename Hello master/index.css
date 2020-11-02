@@ -1,0 +1,19 @@
+*{margin:0 ;padding:0;box-sizing: border-box;}
+body{
+    background-color: orchid;
+}
+.Para{
+    color:black;
+    background-color: peachpuff;
+    border-radius: 10px;
+    margin-top: 25%;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-left: 26%;
+    margin-right: 26%;
+    text-align: center;
+    text-shadow: chartreuse;
+    text-transform: uppercase;
+
+
+}
