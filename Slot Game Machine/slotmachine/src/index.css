@@ -1,13 +1,18 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.Heading_style{
+    text-align: center;
+    width:auto;
+    background-color:rgb(146, 155, 146);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.Slot_machine{
+    margin-left: 38%;
+    width:400px;
+    height:auto;
+    border: 2px solid gold;
+    background-color: rebeccapurple;
+
+
+}
+body{
+    background-color: lightslategray;
 }
