@@ -10,8 +10,8 @@ const Slot = (props) =>{
         return(
             <>
             <div className="Slot_inner">
-            <h1>{x} {y} {z}</h1>
-            <h1>This is matching.</h1>
+            <h1 style={{textAlign:"center"}}>{x} {y} {z}</h1>
+            <h1 style={{textAlign:"center"}}>This is matching.</h1>
             <hr/>
             </div>
             </>
@@ -21,8 +21,8 @@ const Slot = (props) =>{
         return(
             <>
             <div className="Slot_inner">
-            <h1>{x} {y} {z}</h1>
-            <h1>This is Not matching.</h1>
+            <h1 style={{textAlign:"center"}}>{x} {y} {z}</h1>
+            <h1 style={{textAlign:"center"}}>This is Not matching.</h1>
             </div>
             </>
         );
