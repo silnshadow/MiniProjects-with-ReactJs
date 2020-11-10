@@ -1,0 +1,15 @@
+.Heading{
+  background-color: cadetblue;
+  margin-top: 18%;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:black;
+  font-weight: 50;
+}
+
+.Button_style{
+  box-shadow: 2px;
+  margin-left: 48%;
+  margin-top: 18%;
+
+}
